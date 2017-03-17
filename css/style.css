@@ -1,0 +1,107 @@
+@import url("reset.css");
+.center {
+  margin: 0 auto;
+}
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 72px;
+  background: #ffffff;
+}
+.header .header_ {
+  margin-left: 15%;
+  margin-right: 15%;
+  min-width: 600px;
+}
+.header .text-left {
+  float: left;
+  margin-top: 18px;
+  margin-right: 4px;
+}
+.header h1 {
+  float: left;
+  margin-top: 14px;
+}
+.header .text-right {
+  float: right;
+  margin-top: 18px;
+}
+.header .text-right a {
+  margin-right: 26px;
+  color: #3f3f3f;
+}
+.header .text-right button {
+  width: 117px;
+  height: 40px;
+  background: #7e2572;
+}
+.main {
+  width: 100%;
+  height: 511px;
+  background: #ee5a4c;
+  margin-top: -15px;
+}
+.main h1 {
+  padding-top: 101px;
+  font-size: 91px;
+  color: white;
+  margin-bottom: 28px;
+  min-height: 209px;
+  min-width: 389px;
+}
+.main .colp {
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  min-height: 40px;
+  min-width: 515px;
+}
+.main .colp1 {
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  min-height: 40px;
+  min-width: 387px;
+}
+.anniu button {
+  width: 117px;
+  height: 40px;
+  background: #7e2572;
+  margin-top: 24px;
+  min-height: 64px;
+}
+.main2 {
+  width: 100%;
+  height: 87px;
+  background: #1d8b90;
+  margin-bottom: 60px;
+  margin-top: 5px;
+}
+.main2 .main2_ {
+  margin-left: 15%;
+}
+.main2 .main2_ .line {
+  float: right;
+  margin-top: -33px;
+  margin-right: 21.5%;
+  margin-left: 6.6%;
+  color: white;
+  text-underline-color: white;
+}
+.main2 .main2_ img {
+  float: left;
+  margin-top: 29px;
+}
+.main2 .img2 {
+  padding-bottom: 19px;
+  margin-left: 8px;
+  float: left;
+}
+.main2 .main2p {
+  min-width: 1197px;
+  padding-top: 22px;
+  margin-left: 10px;
+  color: white;
+}
